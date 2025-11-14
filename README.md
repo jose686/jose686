@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola\! Soy José Rodríguez (jose686)
 
-<!--
-**jose686/jose686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Full Stack | Java, Python (Django), Kotlin
 
-Here are some ideas to get you started:
+---
+### 📈 Mi Perfil en GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jose686&show_icons=true&theme=dark)](https://github.com/jose686)
+
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jose686&layout=compact&theme=dark)](https://github.com/jose686)
+
+---
+### 🛠️ Tecnologías y Herramientas
+
+  * **Backend:** Python (Django), Java, Kotlin, Node.js (si lo usas)
+  * **Frontend:** HTML, CSS, JavaScript, React/Vue (si lo usas)
+  * **Bases de Datos:** PostgreSQL, MySQL, MongoDB (si los usas)
+  * **DevOps:** Docker, Nginx, Cloudflare, Webmin, Git
+  * **Cloud:** AWS, Google Cloud, Azure (si los usas)
+  * ### 🚀 Proyectos Recientes y Actividad
+
+[![Actividad Reciente](https://github-readme-activity-graph.vercel.app/graph?username=jose686&theme=github-dark)](https://github.com/jose686)
+
+---
+### 🚀 Proyectos Recientes y Actividad
+
+[![Actividad Reciente](https://github-readme-activity-graph.vercel.app/graph?username=jose686&theme=github-dark)](https://github.com/jose686)
+
+---
