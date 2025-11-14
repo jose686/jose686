@@ -22,8 +22,3 @@
 [![Actividad Reciente](https://github-readme-activity-graph.vercel.app/graph?username=jose686&theme=github-dark)](https://github.com/jose686)
 
 ---
-### 🚀 Proyectos Recientes y Actividad
-
-[![Actividad Reciente](https://github-readme-activity-graph.vercel.app/graph?username=jose686&theme=github-dark)](https://github.com/jose686)
-
----
