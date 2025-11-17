@@ -12,11 +12,11 @@
 ---
 ### 🛠️ Tecnologías y Herramientas
 
-  * **Backend:** Python (Django), Java, Kotlin, Node.js (si lo usas)
-  * **Frontend:** HTML, CSS, JavaScript, React/Vue (si lo usas)
-  * **Bases de Datos:** PostgreSQL, MySQL, MongoDB (si los usas)
+  * **Backend:** Python (Django), Java, Kotlin, 
+  * **Frontend:** HTML, CSS, JavaScript, 
+  * **Bases de Datos:** PostgreSQL, MySQL, MongoDB 
   * **DevOps:** Docker, Nginx, Cloudflare, Webmin, Git
-  * **Cloud:** AWS, Google Cloud, Azure (si los usas)
+  * **Cloud:** AWS, Google 
   * ### 🚀 Proyectos Recientes y Actividad
 
 [![Actividad Reciente](https://github-readme-activity-graph.vercel.app/graph?username=jose686&theme=github-dark)](https://github.com/jose686)
