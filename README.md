@@ -33,14 +33,6 @@ He diseñado y desarrollado **Kapitán Kernel**, una plataforma construida bajo 
 
 ---
 
-### 📈 Mi Perfil en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jose686&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose686&layout=compact&theme=dark" alt="Lenguajes Más Usados" />
-</div>
-
----
 
 ### 📊 Actividad Reciente
 
