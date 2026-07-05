@@ -26,10 +26,10 @@ Aplico la precisión y la disciplina del mundo real al desarrollo de software. A
 ### 🚀 Ecosistema Principal: Kapitán Kernel
 
 He diseñado y desarrollado **Kapitán Kernel**, una plataforma construida bajo un ecosistema de microservicios estrictamente independientes:
-*   [**Servicio Usuarios:**](#) Motor central de gestión de identidades y roles (JWT).
-*   [**Servicio Blog:**](#) Motor de contenido autónomo.
-*   [**Servicio Tienda:**](#) Catálogo de e-commerce y control de inventario.
-*   [**Servicio Analíticas:**](#) Radar de monitorización de tráfico en tiempo real con filtrado dinámico (Criteria API).
+*   [**Servicio Usuarios:**](https://github.com/jose686/sevicio-usuario.git) Motor central de gestión de identidades y roles (JWT).
+*   [**Servicio Blog:**](https://github.com/jose686/servicio-blog.git) Motor de contenido autónomo.
+*   [**Servicio Tienda:**](https://github.com/jose686/Sevicio_Tienda.git) Catálogo de e-commerce y control de inventario.
+*   [**Servicio Analíticas:**](https://github.com/jose686/servicio_analiticas.git) Radar de monitorización de tráfico en tiempo real con filtrado dinámico (Criteria API).
 
 ---
 
@@ -50,9 +50,9 @@ He diseñado y desarrollado **Kapitán Kernel**, una plataforma construida bajo 
 ### 🚀 Ecosistema Principal: Kapitán Kernel
 
 He diseñado y desarrollado **Kapitán Kernel**, una plataforma construida bajo un ecosistema de microservicios estrictamente independientes:
-*   [**Servicio Usuarios:**](https://github.com/jose686/sevicio-usuario) Motor central de gestión de identidades y roles (JWT).
-*   [**Servicio Blog:**](https://github.com/jose686/servicio-blog) Motor de contenido autónomo.
-*   [**Servicio Tienda:**](https://github.com/jose686/Sevicio_Tienda) Catálogo de e-commerce y control de inventario.
-*   [**Servicio Analíticas:**](https://github.com/jose686/servicio_analiticas) Radar de monitorización de tráfico en tiempo real con filtrado dinámico (Criteria API).
-*   [**Frontend Público:**](https://github.com/jose686/frontend-publico) Cliente web SSR con resiliencia ante caídas de red (Chaos Testing).
-[**Frontend Privado (Panel de Control):**](https://github.com/jose686/frontend-privado) La Sala de Mandos. Panel de administración principal (Spring MVC, Thymeleaf) protegido por JWT. Orquesta y conecta de forma segura con todas las APIs del ecosistema mediante interceptores personalizados, blindado con una suite de *Slice Testing*.
+*   [**Servicio Usuarios:**](https://github.com/jose686/sevicio-usuario.git) Motor central de gestión de identidades y roles (JWT).
+*   [**Servicio Blog:**](https://github.com/jose686/servicio-blog.git) Motor de contenido autónomo.
+*   [**Servicio Tienda:**](https://github.com/jose686/Sevicio_Tienda.git) Catálogo de e-commerce y control de inventario.
+*   [**Servicio Analíticas:**](https://github.com/jose686/servicio_analiticas.git) Radar de monitorización de tráfico en tiempo real con filtrado dinámico (Criteria API).
+*   [**Frontend Público:**](https://github.com/jose686/frontend-publico.git) Cliente web SSR con resiliencia ante caídas de red (Chaos Testing).
+[**Frontend Privado (Panel de Control):**](https://github.com/jose686/frontend-privado.git) La Sala de Mandos. Panel de administración principal (Spring MVC, Thymeleaf) protegido por JWT. Orquesta y conecta de forma segura con todas las APIs del ecosistema mediante interceptores personalizados, blindado con una suite de *Slice Testing*.
